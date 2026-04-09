@@ -6,7 +6,7 @@ This file expresses the creation badge in Github which might be seen significant
 > Before starting, you should be sure that you know well enough Github and some of its functions.
 
 > [!TIP]
-> You can find the helper videos the bottom of this md file
+> You can find the helper videos the bottom of this md file.
 > You can also benefit from AI boots such as ChatGPT, Gemini and Claude if you are not satisfied with helper videos 
 
 ## Features
@@ -23,19 +23,25 @@ This file expresses the creation badge in Github which might be seen significant
 
 ## Instructions 
 
-- Go to the `https://simpleicons.org` website to search for the logo you want to make for the badge. **(Step 1)**
+>[!WARNING]
+> Those steps written below are for creating **Static Badges**. Therefore, you should be sure that you want to create static badges
+
+
+1. Go to the `https://simpleicons.org` website to search for the logo you want to make for the badge. 
 >[!WARNING]
 > Some of the logos you are looking for might not be at the website. When it is not, it is enough to write just the name
 
-- Copy the hex color of the logo. **(Step 2)**
-- Go to `https://shields.io/badges/static-badge` website. **(Step 3)**
-- Write the badge content as: `Badge Name - Hex Color (Copied at step 2)` into `badgeContent` which is at the rightmost of the website. **(Step 4)**
-- Choose the style as `for-the-badge`. **(Step 5)**
-- Go back to `https://simpleicons.org` and copy the logo name slug. **(Step 6)**
-- When you copy the logo name slug, write the logo name into `logo` at `https://shields.io/badges/static-badge` which is at the rightmost of the website. **(Step 7)**
-- Colorize the logo slug by writing the hex code of the color or just writing the name of the color into `logoColor` which is at the rightmost of the website. **(Step 8)**
-- Execute the content by choosing `Markdown` below the table for badge creating. **(Step 9)**
-- Then copy the link of the badge to your md file. **(Step 10)**
+2. Copy the hex color of the logo. 
+3. Go to `https://shields.io/badges/static-badge` website. 
+4. Write the badge content as: `Badge Name - Hex Color (Copied at step 2)` into `badgeContent` which is at the rightmost of the website. 
+5. Choose the style as `for-the-badge`. 
+6. Go back to `https://simpleicons.org` and copy the logo name slug. 
+7. When you copy the logo name slug, write the logo name into `logo` at `https://shields.io/badges/static-badge` which is at the rightmost of the website.
+8. Colorize the logo slug by writing the hex code of the color or just writing the name of the color into `logoColor` which is at the rightmost of the website. 
+9. Execute the content by choosing `Markdown` below the table for badge creating. 
+10. Then copy the link of the badge to your md file. 
+
+
 
 ## Youtube Links
 If you do not understand it well, those Youtube videos might help you understand better where you stuck.
