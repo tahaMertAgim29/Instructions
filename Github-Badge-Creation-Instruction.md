@@ -1,6 +1,6 @@
 # Introduction
 
-This file expresses the creation badge in Github which might be seen significant on some files such as README.md
+This file expresses the badge creation in Github which might be seen significant on some files such as README.md
 
 > [!WARNING]
 > Before starting, you should be sure that you know well enough Github and some of its functions.
