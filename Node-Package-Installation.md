@@ -23,30 +23,32 @@ This is an instruction about how to install packets(libraries) using NPM (Node P
 
 # Instructions
 
-1. Open an project in Visual Studio Code
+**1. Open an project in Visual Studio Code**
 > To open a folder in VSCode, choose File from upper left menu, press New Folder and choose your folder
 
 >[!TIP]
 > You can create a folder from File Explorer and open the folder from Visual Studio Code
 
-2. Open a terminal in Visual Studio Code
+**2. Open a terminal in Visual Studio Code**
 > from upper left menu by choosing Terminal and press New Terminal and you see a terminal on the main page below
 
-3. Creating package.json. To create it, enter this command into the terminal: 
+**3. Creating package.json. To create it, enter this command into the terminal:** 
 ```
 npm init -y
 ```
-4. Then check whether `package.json` has been created or not. You should also see those below:
+**4. Then check whether `package.json` has been created or not. You should also see those below:**
 ```
 node_modules/
 package.json
 package-lock.json
 ```
 
-6. Creating the package you want to install. To create the package, enter this command into the terminal:
+**5. Creating the package you want to install. To create the package, enter this command into the terminal:**
 ```
 npm install `package`
 ```
+>[!NOTE]
+> Instead of `package`, you should write the name of package which you want to download
 
 # Badges
 ![NodeJS](https://img.shields.io/badge/NodeJS%20-%20%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
