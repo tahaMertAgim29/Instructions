@@ -1,4 +1,4 @@
-# NodeJS Package Installation
+# NodeJS, NPM & Package Installation
 
 ## Introduction
 
@@ -46,5 +46,16 @@ package-lock.json
 ```
 npm install `package`
 ```
+
+# Badges
+![NodeJS](https://img.shields.io/badge/NodeJS%20-%20%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM%20-%20%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript%20-%20%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode%20-%20blue?style=for-the-badge&logoColor=white)
+
+
+
+
+
 
 
