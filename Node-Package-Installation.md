@@ -25,6 +25,7 @@ This is an instruction about how to install packets(libraries) using NPM (Node P
 
 1. Open an project in Visual Studio Code
 > To open a folder in VSCode, choose File from upper left menu, press New Folder and choose your folder
+
 >[!TIP]
 > You can create a folder from File Explorer and open the folder from Visual Studio Code
 
