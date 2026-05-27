@@ -36,17 +36,23 @@ This is an instruction about how to install packets(libraries) using NPM (Node P
 ```
 npm init -y
 ```
-**4. Then check whether `package.json` has been created or not. You should also see those below:**
+**4. Then check whether `package.json` has been created or not.**
 ```
-node_modules/
 package.json
-package-lock.json
 ```
 
 **5. Creating the package you want to install. To create the package, enter this command into the terminal:**
 ```
 npm install `package`
 ```
+> After that, you ensure that those files are also seen:
+
+```
+package-lock.json
+node_modules/
+```
+
+
 >[!NOTE]
 > Instead of `package`, you should write the name of package which you want to download
 
