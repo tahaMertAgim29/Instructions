@@ -54,7 +54,7 @@ node_modules/
 
 
 >[!NOTE]
-> Instead of `package`, you should write the name of package which you want to download
+> Instead of `package`, you should write the name of package or packages which you want to download
 
 # Badges
 ![NodeJS](https://img.shields.io/badge/NodeJS%20-%20%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
