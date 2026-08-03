@@ -25,7 +25,7 @@ This is an instruction for Git about how to do a push into a branch (usually mai
 
 ## Steps
 > [!WARNING]
-> Before starting, you should apply these steps on your command terminal or CLI. Therefore, you had better check whether Git has successfully been uploaded
+> Before starting, you should apply these steps on your command terminal or CLI. Therefore, you had better check whether Git has successfully been uploaded.
 > To check it, you could enter this command:
 > ```
 > git --version
