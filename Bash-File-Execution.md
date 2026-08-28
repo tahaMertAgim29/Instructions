@@ -49,7 +49,7 @@ This is a Bash file (w/ `.sh` extension) execution instruction. Before starting,
   bash -x filename.sh (Alternative 3: Debug while running )
 ```
 
-## Technologies or Programs (Used)
+## Technologies & Programs (Used)
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox%20-%20%232F61B4?style=for-the-badge&logo=virtualbox)
 ![Linux](https://img.shields.io/badge/Linux%20-%20%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
