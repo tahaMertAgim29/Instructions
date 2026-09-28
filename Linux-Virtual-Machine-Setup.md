@@ -21,7 +21,7 @@ You could also use VMWare but VirtualBox is used in this instruction so the step
 >
 > [VirtualBox Download](https://www.virtualbox.org/) (You should choose the right one depending on your computer or system)
 >
-> [Ubuntu Desktop LTS](https://releases.ubuntu.com/noble/)
+> [Ubuntu Desktop LTS](https://releases.ubuntu.com/noble/) (You could choose which release you want to setup your computer)
 
 ## Setup and Installation Steps
 
