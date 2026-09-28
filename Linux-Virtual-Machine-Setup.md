@@ -12,7 +12,7 @@ You could also use VMWare but VirtualBox is used in this instruction so the step
 - Windows
 
 > [!WARNING]
-> Ubuntu Version and VirtualBox version may not support each other depending on technology versions
+> Ubuntu Version and VirtualBox version may not support each other depending on technology versions.
 > This is experienced during installation and setup. Therefore, these versions were used during setup and installations.
 > You have potential to encounter with some problems so that you should advice AI tools when you experience those issues
 
