@@ -24,13 +24,13 @@ This is an instruction about how to install packets(libraries) using NPM (Node P
 # Instructions
 
 **1. Open an project in Visual Studio Code**
-> To open a folder in VSCode, choose File from upper left menu, press New Folder and choose your folder
+- To open a folder in VSCode, choose File from upper left menu, press New Folder and choose your folder
 
 >[!TIP]
 > You can create a folder from File Explorer and open the folder from Visual Studio Code
 
 **2. Open a terminal in Visual Studio Code**
-> from upper left menu by choosing Terminal and press New Terminal and you see a terminal on the main page below
+- From upper left menu by choosing Terminal and press New Terminal and you see a terminal on the main page below
 
 **3. Creating package.json. To create it, enter this command into the terminal:** 
 ```
@@ -45,13 +45,12 @@ package.json
 ```
 npm install `package`
 ```
-> After that, you ensure that those files are also seen:
+- After that, you ensure that those files are also seen:
 
 ```
 package-lock.json
 node_modules/
 ```
-
 
 >[!NOTE]
 > Instead of `package`, you should write the name of package or packages which you want to download
