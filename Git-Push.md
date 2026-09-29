@@ -81,6 +81,16 @@ git push origin main
 
 9 - After the push, you should control whether your changes has been successfully added to the branch
 
+> [!IMPORTANT]
+> When you try to push & commit into the Github, it obstructs for permissions to push or commit. Therefore, you should enter the command below if you encounter with the permission or authentication. After that, you may need to enter your username & password to verify
+>  ```
+> 
+> git pull
+>
+> ```
+
+
+
 ## Technologies
 
 ![Git](https://img.shields.io/badge/Git%20-%20%23F03C2E?style=for-the-badge&logo=git&logoColor=white)
