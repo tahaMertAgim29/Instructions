@@ -68,15 +68,6 @@ Assume that let the device,which you want to connect via Ethernet have IP addres
 
 
 
-
-
-
-
-
-
-
-
 ## Badges
 
 ![Windows](https://img.shields.io/badge/Windows%20-%20%230854C1?style=for-the-badge)
-
